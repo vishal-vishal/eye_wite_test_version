@@ -1,0 +1,16 @@
+https://dg-static1.paytm.com/
+https://oe-staging1.paytm.com/
+https://assetscdn1.paytm.com
+https://accounts-int1.paytm.com/
+https://dev1.paytm.com/
+https://goldengate-staging12.paytm.com/
+https://dg-static2.paytm.com/
+https://tickets-staging2.paytm.com/
+http://dg-static1.paytm.com/
+http://oe-staging1.paytm.com/
+http://assetscdn1.paytm.com/
+http://accounts-int1.paytm.com/
+http://dev1.paytm.com/
+http://goldengate-staging12.paytm.com/
+http://dg-static2.paytm.com/
+http://tickets-staging2.paytm.com/
